@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Nathan Jr. · AI Engineer em formação">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0F1A"/><stop offset="1" stop-color="#141B2E"/></linearGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#FF7A59"/><stop offset=".55" stop-color="#F5C451"/><stop offset="1" stop-color="#7C9CFF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#E6EAF2"/></marker>
+</defs>
+<style>
+.f{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.p{animation:pulse 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:1;transform:scale(1.6)}}
+.v{stroke-dasharray:260;stroke-dashoffset:260;animation:draw 2.4s ease-out forwards}
+.v2{animation-delay:.6s}
+@keyframes draw{to{stroke-dashoffset:0}}
+.fade{opacity:0;animation:in 1s ease-out forwards}
+@keyframes in{to{opacity:1}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.type{clip-path:inset(0 100% 0 0);animation:typing 3.5s steps(34) .8s forwards}
+@keyframes typing{to{clip-path:inset(0 0 0 0)}}
+</style>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+<g class="f">
+<text x="64" y="92" fill="#8B95A7" font-size="16" letter-spacing="3">OLÁ, EU SOU</text>
+<text x="62" y="158" fill="url(#tx)" font-size="64" font-weight="800">Nathan Jr.</text>
+<text x="64" y="198" fill="#E6EAF2" font-size="22" font-weight="600">AI Engineer em formação · LLMs · Agentes · MCP</text>
+<text x="64" y="228" fill="#8B95A7" font-size="16">Engenharia da Computação @ UNASP · Estagiário Next Gen AI @ CI&amp;T</text>
+</g>
+<g class="m" font-size="15">
+<rect x="64" y="252" width="520" height="40" rx="8" fill="#0B0F1A" stroke="#26304A"/>
+<text x="80" y="277" fill="#3DDC97">❯</text>
+<text x="100" y="277" fill="#E6EAF2" class="type">léia.buscar("um suspense curto")</text>
+<rect x="404" y="263" width="9" height="18" fill="#E6EAF2" class="cur"/>
+</g>
+<g><line x1="874.9" y1="118.2" x2="875.0" y2="104.4" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="875.0" y1="104.4" x2="861.3" y2="106.6" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="861.3" y1="106.6" x2="902.7" y2="116.9" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="902.7" y1="116.9" x2="901.0" y2="114.0" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="901.0" y1="114.0" x2="888.4" y2="113.2" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="888.4" y1="113.2" x2="848.2" y2="123.1" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="848.2" y1="123.1" x2="890.0" y2="117.9" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="890.0" y1="117.9" x2="852.1" y2="87.0" stroke="#FF7A59" stroke-opacity=".25" stroke-width="1"/><line x1="1012.1" y1="182.4" x2="1037.6" y2="189.1" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1037.6" y1="189.1" x2="1040.3" y2="179.8" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1040.3" y1="179.8" x2="1036.3" y2="196.4" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1036.3" y1="196.4" x2="1017.3" y2="216.4" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1017.3" y1="216.4" x2="1041.4" y2="209.5" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1041.4" y1="209.5" x2="1017.5" y2="178.1" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1017.5" y1="178.1" x2="1022.1" y2="188.0" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="1022.1" y1="188.0" x2="1042.5" y2="193.9" stroke="#7C9CFF" stroke-opacity=".25" stroke-width="1"/><line x1="985.9" y1="254.5" x2="984.4" y2="289.9" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="984.4" y1="289.9" x2="978.9" y2="273.9" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="978.9" y1="273.9" x2="1003.6" y2="246.0" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="1003.6" y1="246.0" x2="996.0" y2="291.3" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="996.0" y1="291.3" x2="958.0" y2="265.3" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="958.0" y1="265.3" x2="992.9" y2="257.0" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="992.9" y1="257.0" x2="1005.2" y2="269.0" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="1005.2" y1="269.0" x2="966.0" y2="283.1" stroke="#3DDC97" stroke-opacity="20.2" stroke-width="1"/><line x1="1093.6" y1="105.4" x2="1109.1" y2="95.9" stroke="#F5C451" stroke-opacity=".25" stroke-width="1"/><line x1="1109.1" y1="95.9" x2="1082.4" y2="68.8" stroke="#F5C451" stroke-opacity=".25" stroke-width="1"/><line x1="1082.4" y1="68.8" x2="1092.3" y2="80.2" stroke="#F5C451" stroke-opacity=".25" stroke-width="1"/><line x1="1092.3" y1="80.2" x2="1070.8" y2="69.4" stroke="#F5C451" stroke-opacity=".25" stroke-width="1"/><line x1="1070.8" y1="69.4" x2="1060.3" y2="81.4" stroke="#F5C451" stroke-opacity=".25" stroke-width="1"/><line x1="1060.3" y1="81.4" x2="1101.4" y2="63.0" stroke="#F5C451" stroke-opacity=".25" stroke-width="1"/><circle cx="874.9" cy="118.2" r="4.0" fill="#FF7A59" class="p" style="animation-delay:1.94s"/><circle cx="875.0" cy="104.4" r="2.6" fill="#FF7A59" class="p" style="animation-delay:2.47s"/><circle cx="861.3" cy="106.6" r="3.3" fill="#FF7A59" class="p" style="animation-delay:1.16s"/><circle cx="902.7" cy="116.9" r="2.9" fill="#FF7A59" class="p" style="animation-delay:0.07s"/><circle cx="901.0" cy="114.0" r="2.2" fill="#FF7A59" class="p" style="animation-delay:0.5s"/><circle cx="888.4" cy="113.2" r="3.5" fill="#FF7A59" class="p" style="animation-delay:0.18s"/><circle cx="848.2" cy="123.1" r="2.5" fill="#FF7A59" class="p" style="animation-delay:0.39s"/><circle cx="890.0" cy="117.9" r="3.7" fill="#FF7A59" class="p" style="animation-delay:1.17s"/><circle cx="852.1" cy="87.0" r="2.9" fill="#FF7A59" class="p" style="animation-delay:0.24s"/><circle cx="1012.1" cy="182.4" r="3.8" fill="#7C9CFF" class="p" style="animation-delay:1.65s"/><circle cx="1037.6" cy="189.1" r="3.7" fill="#7C9CFF" class="p" style="animation-delay:2.46s"/><circle cx="1040.3" cy="179.8" r="2.8" fill="#7C9CFF" class="p" style="animation-delay:0.84s"/><circle cx="1036.3" cy="196.4" r="3.8" fill="#7C9CFF" class="p" style="animation-delay:1.08s"/><circle cx="1017.3" cy="216.4" r="2.3" fill="#7C9CFF" class="p" style="animation-delay:2.87s"/><circle cx="1041.4" cy="209.5" r="2.5" fill="#7C9CFF" class="p" style="animation-delay:0.53s"/><circle cx="1017.5" cy="178.1" r="3.0" fill="#7C9CFF" class="p" style="animation-delay:0.7s"/><circle cx="1022.1" cy="188.0" r="2.5" fill="#7C9CFF" class="p" style="animation-delay:1.77s"/><circle cx="1042.5" cy="193.9" r="2.8" fill="#7C9CFF" class="p" style="animation-delay:0.01s"/><circle cx="985.9" cy="254.5" r="3.1" fill="#3DDC97" class="p" style="animation-delay:1.11s"/><circle cx="984.4" cy="289.9" r="3.4" fill="#3DDC97" class="p" style="animation-delay:2.86s"/><circle cx="978.9" cy="273.9" r="3.2" fill="#3DDC97" class="p" style="animation-delay:1.55s"/><circle cx="1003.6" cy="246.0" r="2.1" fill="#3DDC97" class="p" style="animation-delay:2.03s"/><circle cx="996.0" cy="291.3" r="3.6" fill="#3DDC97" class="p" style="animation-delay:2.7s"/><circle cx="958.0" cy="265.3" r="3.6" fill="#3DDC97" class="p" style="animation-delay:2.62s"/><circle cx="992.9" cy="257.0" r="2.8" fill="#3DDC97" class="p" style="animation-delay:1.18s"/><circle cx="1005.2" cy="269.0" r="3.3" fill="#3DDC97" class="p" style="animation-delay:0.31s"/><circle cx="966.0" cy="283.1" r="2.1" fill="#3DDC97" class="p" style="animation-delay:0.19s"/><circle cx="1093.6" cy="105.4" r="2.3" fill="#F5C451" class="p" style="animation-delay:0.63s"/><circle cx="1109.1" cy="95.9" r="2.1" fill="#F5C451" class="p" style="animation-delay:1.02s"/><circle cx="1082.4" cy="68.8" r="2.3" fill="#F5C451" class="p" style="animation-delay:0.0s"/><circle cx="1092.3" cy="80.2" r="2.7" fill="#F5C451" class="p" style="animation-delay:0.3s"/><circle cx="1070.8" cy="69.4" r="3.7" fill="#F5C451" class="p" style="animation-delay:0.08s"/><circle cx="1060.3" cy="81.4" r="2.3" fill="#F5C451" class="p" style="animation-delay:1.84s"/><circle cx="1101.4" cy="63.0" r="2.7" fill="#F5C451" class="p" style="animation-delay:0.76s"/><circle cx="1050.5" cy="93.9" r="2.2" fill="#F5C451" class="p" style="animation-delay:1.09s"/><circle cx="1109.0" cy="99.3" r="4.0" fill="#F5C451" class="p" style="animation-delay:2.55s"/></g>
+<g stroke-width="2.2" fill="none">
+<line x1="760" y1="300" x2="872" y2="118" stroke="#FF7A59" class="v" marker-end="url(#ar)"/>
+<line x1="760" y1="300" x2="1018" y2="196" stroke="#7C9CFF" class="v v2" marker-end="url(#ar)"/>
+<path d="M800 236 A70 70 0 0 1 826 252" stroke="#F5C451" stroke-width="1.6" class="fade" style="animation-delay:2s"/>
+</g>
+<circle cx="760" cy="300" r="4" fill="#E6EAF2"/>
+<g class="m fade" style="animation-delay:2.2s" font-size="14">
+<text x="828" y="212" fill="#F5C451">cos θ = 0.80</text>
+<text x="1136" y="318" fill="#4A5570" text-anchor="end" font-size="12">espaço de embeddings · ilustrativo</text>
+</g>
+</svg>
