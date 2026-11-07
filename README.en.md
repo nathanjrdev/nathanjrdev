@@ -203,25 +203,65 @@ Medical planning SaaS, built with the modern front-end ecosystem.
 ![Anthropic](https://img.shields.io/badge/Anthropic-7_certificates-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![CI&T](https://img.shields.io/badge/CI%26T-Bootcamp_Next--Gen_2026-1A1A2E?style=flat-square)
 ![Rocketseat](https://img.shields.io/badge/Rocketseat-Java_·_Docker-8257E5?style=flat-square&logo=rocket&logoColor=white)
+![Impacta](https://img.shields.io/badge/Impacta-Java-00A4B4?style=flat-square)
 
 </div>
 
-<details>
-<summary><b>See the Claude track (Anthropic)</b></summary>
+<sub>Click a thumbnail to open the full certificate.</sub>
 
-<br>
-
-| Course | Issued |
-|:--|:--|
-| Model Context Protocol: Advanced Topics | Jul/2026 |
-| Introduction to Model Context Protocol | Jul/2026 |
-| Introduction to Agent Skills | Jul/2026 |
-| Building with the Claude API | Jul/2026 |
-| Claude Code in Action | Jul/2026 |
-| Claude 101 | Jun/2026 |
-| AI Fluency: Framework & Foundations | Aug/2026 |
-
-</details>
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/mcp-advanced.pdf"><img src="assets/certs/mcp-advanced.png" width="160"/></a>
+<br><sub><b>MCP: Advanced Topics</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/mcp-intro.pdf"><img src="assets/certs/mcp-intro.png" width="160"/></a>
+<br><sub><b>Introduction to MCP</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/agent-skills.pdf"><img src="assets/certs/agent-skills.png" width="160"/></a>
+<br><sub><b>Introduction to Agent Skills</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/claude-api.pdf"><img src="assets/certs/claude-api.png" width="160"/></a>
+<br><sub><b>Building with the Claude API</b><br>Anthropic · Jul/2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/claude-code.pdf"><img src="assets/certs/claude-code.png" width="160"/></a>
+<br><sub><b>Claude Code in Action</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/claude-101.pdf"><img src="assets/certs/claude-101.png" width="160"/></a>
+<br><sub><b>Claude 101</b><br>Anthropic · Jun/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/ai-fluency.pdf"><img src="assets/certs/ai-fluency.png" width="160"/></a>
+<br><sub><b>AI Fluency: Framework & Foundations</b><br>Anthropic · Aug/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/cit-bootcamp.pdf"><img src="assets/certs/cit-bootcamp.png" width="160"/></a>
+<br><sub><b>Bootcamp Next-Gen 2026</b><br>CI&T · Apr/2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/rocketseat-java.pdf"><img src="assets/certs/rocketseat-java.png" width="160"/></a>
+<br><sub><b>Java Minicourse</b><br>Rocketseat · Sep/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/rocketseat-docker.pdf"><img src="assets/certs/rocketseat-docker.png" width="160"/></a>
+<br><sub><b>Intro to Docker</b><br>Rocketseat · Aug/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/impacta-java.pdf"><img src="assets/certs/impacta-java.png" width="160"/></a>
+<br><sub><b>Java</b><br>Impacta</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
 
 <br>
 
