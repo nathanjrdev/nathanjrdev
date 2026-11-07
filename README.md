@@ -69,28 +69,100 @@ flowchart LR
 
 <br>
 
-## 🧪 Laboratório de IA
+## 🧪 Repositórios de IA
 
-| Projeto | O que faz | Status |
-|:--|:--|:--|
-| **Léia** | Agente de locação de livros com 7 ferramentas, busca híbrida e avaliação automatizada | 🚧 Em construção |
-| **[Embeddings Semânticos](https://github.com/nathanjrdev/Embeddings-semanticos-dashboard)** | Pipeline completo de embeddings: chunking, VoyageAI, normalização L2, PCA e busca por similaridade de cosseno | ✅ Pronto |
-| **[pixel-dev-office](https://github.com/nathanjrdev/pixel-dev-office)** | Escritório em pixel-art para monitorar agentes do Claude Code trabalhando | ✅ Pronto |
-| **Modelo de embeddings PT-BR** | Ajuste fino de um modelo multilíngue para pedidos em português, publicado no Hugging Face | 📋 Planejado |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Léia**
+Agente de IA para locação de livros: entende pedidos em linguagem natural, busca no catálogo, confere estoque e fecha a reserva com confirmação.
+
+`Python` `FastAPI` `Postgres` `pgvector` `Tool calling`
+
+🚧 Em construção · v1 em 14/11
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 Embeddings Semânticos**
+Pipeline completo de embeddings: chunking, geração de vetores (VoyageAI), normalização L2, PCA e busca por similaridade de cosseno.
+
+`Next.js` `VoyageAI` `TypeScript`
+
+✅ Pronto · [Ver projeto →](https://github.com/nathanjrdev/Embeddings-semanticos-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ pixel-dev-office**
+Escritório em pixel-art que transforma agentes do Claude Code trabalhando em personagens animados no navegador.
+
+`HTML` `JavaScript` `Pixel Art`
+
+✅ Pronto · [Ver projeto →](https://github.com/nathanjrdev/pixel-dev-office)
+
+</td>
+<td width="50%" valign="top">
+
+**🤗 Modelo de embeddings PT-BR**
+Ajuste fino de um modelo multilíngue de embeddings para pedidos em português, publicado no Hugging Face com métricas de antes e depois.
+
+`Hugging Face` `Fine-tuning` `Embeddings`
+
+📋 Planejado
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 🚀 Outros projetos
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | Projeto | Destaque |
-|:--:|:--|:--|
-| 🃏 | **[Flashlingo](https://github.com/nathanjrdev/Flashlingo)** | App de inglês com repetição espaçada (algoritmo SM-2) e pronúncia nativa |
-| 🌱 | **[Horta Inteligente](https://github.com/nathanjrdev/PROJETO-HORTA-INTELIGENTE)** | IoT: sensores de umidade, temperatura e água acionam a irrigação sozinhos |
-| 🩺 | **[MedicPlan](https://github.com/nathanjrdev/SAAS-medicplan)** | SaaS de planejamento médico em Next.js e TypeScript |
+**🃏 Flashlingo**
+App de inglês com repetição espaçada (algoritmo SM-2), 5 telas e áudio de pronúncia nativa.
 
-</div>
+`App mobile/web` `SRS` `SM-2`
+
+[Ver projeto →](https://github.com/nathanjrdev/Flashlingo)
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Horta Inteligente**
+Sistema de IoT: sensores de umidade, temperatura e água acionam a irrigação automaticamente.
+
+`IoT` `Sensores` `Automação`
+
+[Ver projeto →](https://github.com/nathanjrdev/PROJETO-HORTA-INTELIGENTE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 MedicPlan**
+SaaS de planejamento médico, construído com o ecossistema moderno de front-end.
+
+`Next.js` `TypeScript` `SaaS`
+
+[Ver projeto →](https://github.com/nathanjrdev/SAAS-medicplan)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>Veja a lista completa nos meus <a href="https://github.com/nathanjrdev?tab=repositories">repositórios</a>.</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -114,6 +186,9 @@ flowchart LR
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![VoyageAI](https://img.shields.io/badge/VoyageAI_Embeddings-5B4BDB?style=for-the-badge)
 

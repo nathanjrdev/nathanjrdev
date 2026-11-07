@@ -69,28 +69,100 @@ flowchart LR
 
 <br>
 
-## 🧪 AI Lab
+## 🧪 AI Repositories
 
-| Project | What it does | Status |
-|:--|:--|:--|
-| **Léia** | Book-rental agent with 7 tools, hybrid search and automated evaluation | 🚧 In progress |
-| **[Semantic Embeddings](https://github.com/nathanjrdev/Embeddings-semanticos-dashboard)** | Full embeddings pipeline: chunking, VoyageAI, L2 normalization, PCA and cosine-similarity search | ✅ Done |
-| **[pixel-dev-office](https://github.com/nathanjrdev/pixel-dev-office)** | Pixel-art office for watching Claude Code agents at work | ✅ Done |
-| **PT-BR embeddings model** | Fine-tuned multilingual model for Portuguese requests, published on Hugging Face | 📋 Planned |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Léia**
+AI assistant for book rentals: understands plain-language requests, searches the catalog, checks stock and books the rental with confirmation.
+
+`Python` `FastAPI` `Postgres` `pgvector` `Tool calling`
+
+🚧 In progress · v1 on Nov 14
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 Semantic Embeddings**
+Full embeddings pipeline: chunking, vector generation (VoyageAI), L2 normalization, PCA and cosine-similarity search.
+
+`Next.js` `VoyageAI` `TypeScript`
+
+✅ Done · [View project →](https://github.com/nathanjrdev/Embeddings-semanticos-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖥️ pixel-dev-office**
+Pixel-art office that turns Claude Code agents at work into animated characters in the browser.
+
+`HTML` `JavaScript` `Pixel Art`
+
+✅ Done · [View project →](https://github.com/nathanjrdev/pixel-dev-office)
+
+</td>
+<td width="50%" valign="top">
+
+**🤗 PT-BR embeddings model**
+Fine-tuned multilingual embeddings model for Portuguese requests, published on Hugging Face with before/after metrics.
+
+`Hugging Face` `Fine-tuning` `Embeddings`
+
+📋 Planned
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 🚀 Other projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | Project | Highlight |
-|:--:|:--|:--|
-| 🃏 | **[Flashlingo](https://github.com/nathanjrdev/Flashlingo)** | English-learning app with spaced repetition (SM-2) and native pronunciation |
-| 🌱 | **[Smart Garden](https://github.com/nathanjrdev/PROJETO-HORTA-INTELIGENTE)** | IoT: soil moisture, temperature and water sensors trigger irrigation on their own |
-| 🩺 | **[MedicPlan](https://github.com/nathanjrdev/SAAS-medicplan)** | Medical planning SaaS in Next.js and TypeScript |
+**🃏 Flashlingo**
+English-learning app with spaced repetition (SM-2), 5 screens and native pronunciation audio.
 
-</div>
+`Mobile/web app` `SRS` `SM-2`
+
+[View project →](https://github.com/nathanjrdev/Flashlingo)
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Smart Garden**
+IoT system: soil moisture, temperature and water sensors trigger irrigation on their own.
+
+`IoT` `Sensors` `Automation`
+
+[View project →](https://github.com/nathanjrdev/PROJETO-HORTA-INTELIGENTE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 MedicPlan**
+Medical planning SaaS, built with the modern front-end ecosystem.
+
+`Next.js` `TypeScript` `SaaS`
+
+[View project →](https://github.com/nathanjrdev/SAAS-medicplan)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>See the full list in my <a href="https://github.com/nathanjrdev?tab=repositories">repositories</a>.</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -114,6 +186,9 @@ flowchart LR
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![VoyageAI](https://img.shields.io/badge/VoyageAI_Embeddings-5B4BDB?style=for-the-badge)
 
