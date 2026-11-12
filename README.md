@@ -22,24 +22,74 @@ Sou estudante de **Engenharia da Computação no UNASP** e estagiário no progra
 
 Gosto de levar IA generativa para produtos reais: buscas semânticas, agentes que chamam ferramentas e integrações via **MCP**. Antes do código, passei pelo **suporte técnico da Reitoria do UNASP** e dou aulas de informática para crianças no **Projeto Alphabit (ADRA)**. Isso me ensinou a olhar primeiro para quem vai usar o sistema.
 
-```python
-from dataclasses import dataclass, field
+<br>
 
-@dataclass
-class NathanJr:
-    curso: str  = "Engenharia da Computação @ UNASP (2024 → 2029)"
-    agora: str  = "Estagiário Next Gen AI @ CI&T"
-    foco: list  = field(default_factory=lambda: [
-        "LLMs e agentes com tool calling",
-        "RAG, embeddings e busca semântica",
-        "MCP e Agent Skills",
-        "avaliação de IA com métricas reais",
-    ])
-    certificacoes: int = 10          # 7 delas na trilha Claude (Anthropic)
+## 🎓 Certificações
 
-    def filosofia(self) -> str:
-        return "IA é software: precisa de teste, métrica e limites claros."
-```
+<div align="center">
+
+![Anthropic](https://img.shields.io/badge/Anthropic-7_certificações-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![CI&T](https://img.shields.io/badge/CI%26T-Bootcamp_Next--Gen_2026-1A1A2E?style=flat-square)
+![Rocketseat](https://img.shields.io/badge/Rocketseat-Java_·_Docker-8257E5?style=flat-square&logo=rocket&logoColor=white)
+![Impacta](https://img.shields.io/badge/Impacta-Java-00A4B4?style=flat-square)
+
+</div>
+
+<sub>Clique em uma miniatura para abrir o certificado completo.</sub>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/mcp-advanced.pdf"><img src="assets/certs/mcp-advanced.png" width="160"/></a>
+<br><sub><b>MCP: Advanced Topics</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/mcp-intro.pdf"><img src="assets/certs/mcp-intro.png" width="160"/></a>
+<br><sub><b>Introduction to MCP</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/agent-skills.pdf"><img src="assets/certs/agent-skills.png" width="160"/></a>
+<br><sub><b>Introduction to Agent Skills</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/claude-api.pdf"><img src="assets/certs/claude-api.png" width="160"/></a>
+<br><sub><b>Building with the Claude API</b><br>Anthropic · Jul/2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/claude-code.pdf"><img src="assets/certs/claude-code.png" width="160"/></a>
+<br><sub><b>Claude Code in Action</b><br>Anthropic · Jul/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/claude-101.pdf"><img src="assets/certs/claude-101.png" width="160"/></a>
+<br><sub><b>Claude 101</b><br>Anthropic · Jun/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/ai-fluency.pdf"><img src="assets/certs/ai-fluency.png" width="160"/></a>
+<br><sub><b>AI Fluency: Framework & Foundations</b><br>Anthropic · Ago/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/cit-bootcamp.pdf"><img src="assets/certs/cit-bootcamp.png" width="160"/></a>
+<br><sub><b>Bootcamp Next-Gen 2026</b><br>CI&T · Abr/2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/rocketseat-java.pdf"><img src="assets/certs/rocketseat-java.png" width="160"/></a>
+<br><sub><b>Minicurso de Java</b><br>Rocketseat · Set/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/rocketseat-docker.pdf"><img src="assets/certs/rocketseat-docker.png" width="160"/></a>
+<br><sub><b>Introdução ao Docker</b><br>Rocketseat · Ago/2026</sub>
+</td>
+<td align="center" width="25%">
+<a href="assets/certs/pdfs/impacta-java.pdf"><img src="assets/certs/impacta-java.png" width="160"/></a>
+<br><sub><b>Java</b><br>Impacta</sub>
+</td>
+<td width="25%"></td>
+</tr>
+</table>
 
 <br>
 
@@ -193,75 +243,6 @@ SaaS de planejamento médico, construído com o ecossistema moderno de front-end
 ![VoyageAI](https://img.shields.io/badge/VoyageAI_Embeddings-5B4BDB?style=for-the-badge)
 
 <sub>Tool calling · Agent Skills · RAG · Embeddings · Busca semântica · PCA · Avaliação de LLMs</sub>
-
-<br>
-
-## 🎓 Certificações
-
-<div align="center">
-
-![Anthropic](https://img.shields.io/badge/Anthropic-7_certificações-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![CI&T](https://img.shields.io/badge/CI%26T-Bootcamp_Next--Gen_2026-1A1A2E?style=flat-square)
-![Rocketseat](https://img.shields.io/badge/Rocketseat-Java_·_Docker-8257E5?style=flat-square&logo=rocket&logoColor=white)
-![Impacta](https://img.shields.io/badge/Impacta-Java-00A4B4?style=flat-square)
-
-</div>
-
-<sub>Clique em uma miniatura para abrir o certificado completo.</sub>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/mcp-advanced.pdf"><img src="assets/certs/mcp-advanced.png" width="160"/></a>
-<br><sub><b>MCP: Advanced Topics</b><br>Anthropic · Jul/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/mcp-intro.pdf"><img src="assets/certs/mcp-intro.png" width="160"/></a>
-<br><sub><b>Introduction to MCP</b><br>Anthropic · Jul/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/agent-skills.pdf"><img src="assets/certs/agent-skills.png" width="160"/></a>
-<br><sub><b>Introduction to Agent Skills</b><br>Anthropic · Jul/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/claude-api.pdf"><img src="assets/certs/claude-api.png" width="160"/></a>
-<br><sub><b>Building with the Claude API</b><br>Anthropic · Jul/2026</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/claude-code.pdf"><img src="assets/certs/claude-code.png" width="160"/></a>
-<br><sub><b>Claude Code in Action</b><br>Anthropic · Jul/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/claude-101.pdf"><img src="assets/certs/claude-101.png" width="160"/></a>
-<br><sub><b>Claude 101</b><br>Anthropic · Jun/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/ai-fluency.pdf"><img src="assets/certs/ai-fluency.png" width="160"/></a>
-<br><sub><b>AI Fluency: Framework & Foundations</b><br>Anthropic · Ago/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/cit-bootcamp.pdf"><img src="assets/certs/cit-bootcamp.png" width="160"/></a>
-<br><sub><b>Bootcamp Next-Gen 2026</b><br>CI&T · Abr/2026</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/rocketseat-java.pdf"><img src="assets/certs/rocketseat-java.png" width="160"/></a>
-<br><sub><b>Minicurso de Java</b><br>Rocketseat · Set/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/rocketseat-docker.pdf"><img src="assets/certs/rocketseat-docker.png" width="160"/></a>
-<br><sub><b>Introdução ao Docker</b><br>Rocketseat · Ago/2026</sub>
-</td>
-<td align="center" width="25%">
-<a href="assets/certs/pdfs/impacta-java.pdf"><img src="assets/certs/impacta-java.png" width="160"/></a>
-<br><sub><b>Java</b><br>Impacta</sub>
-</td>
-<td width="25%"></td>
-</tr>
-</table>
 
 <br>
 
