@@ -45,7 +45,7 @@ class NathanJr:
 
 ## 🤖 Featured project: Léia
 
-> **🚧 In progress · v1 due Nov 14, 2026**
+> **✅ Live at [leiabiblioteca.tech](https://leiabiblioteca.tech) since Nov 17, 2026**
 
 **Léia** is an AI assistant for book rentals. Readers chat in plain Portuguese ("a short thriller for the weekend") and she searches the catalog, checks stock at each branch, prices the rental and books it, always asking for confirmation first.
 
@@ -76,11 +76,11 @@ flowchart LR
 <td width="50%" valign="top">
 
 **🤖 Léia**
-AI assistant for book rentals: understands plain-language requests, searches the catalog, checks stock and books the rental with confirmation.
+AI assistant for book rentals: understands plain-language requests, searches the catalog, checks stock and books the rental with confirmation. Passes 54 of 55 cases in its evaluation suite.
 
-`Python` `FastAPI` `Postgres` `pgvector` `Tool calling`
+`Python` `FastAPI` `LangGraph` `Postgres` `pgvector` `Next.js` `Tool calling`
 
-🚧 In progress · v1 on Nov 14
+✅ Live · [leiabiblioteca.tech](https://leiabiblioteca.tech) · [View project →](https://github.com/nathanjrdev/leia)
 
 </td>
 <td width="50%" valign="top">

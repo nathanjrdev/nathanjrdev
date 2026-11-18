@@ -95,7 +95,7 @@ Gosto de levar IA generativa para produtos reais: buscas semânticas, agentes qu
 
 ## 🤖 Projeto em destaque: Léia
 
-> **🚧 Em construção · v1 prevista para 14/11/2026**
+> **✅ No ar em [leiabiblioteca.tech](https://leiabiblioteca.tech) desde 17/11/2026**
 
 A **Léia** é uma assistente de IA para locação de livros. O leitor conversa em linguagem natural ("um suspense curto para o fim de semana"), e ela busca no catálogo, confere o estoque de cada unidade, calcula o valor e fecha a reserva, sempre pedindo confirmação antes.
 
@@ -126,11 +126,11 @@ flowchart LR
 <td width="50%" valign="top">
 
 **🤖 Léia**
-Agente de IA para locação de livros: entende pedidos em linguagem natural, busca no catálogo, confere estoque e fecha a reserva com confirmação.
+Agente de IA para locação de livros: entende pedidos em linguagem natural, busca no catálogo, confere estoque e fecha a reserva com confirmação. Acerta 54 de 55 casos na suíte de avaliação.
 
-`Python` `FastAPI` `Postgres` `pgvector` `Tool calling`
+`Python` `FastAPI` `LangGraph` `Postgres` `pgvector` `Next.js` `Tool calling`
 
-🚧 Em construção · v1 em 14/11
+✅ No ar · [leiabiblioteca.tech](https://leiabiblioteca.tech) · [Ver projeto →](https://github.com/nathanjrdev/leia)
 
 </td>
 <td width="50%" valign="top">
