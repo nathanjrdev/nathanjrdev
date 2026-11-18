@@ -158,11 +158,11 @@ Escritório em pixel-art que transforma agentes do Claude Code trabalhando em pe
 <td width="50%" valign="top">
 
 **🤗 Modelo de embeddings PT-BR**
-Ajuste fino de um modelo multilíngue de embeddings para pedidos em português, publicado no Hugging Face com métricas de antes e depois.
+Ajuste fino de um modelo multilíngue de embeddings para a busca da Léia, com pedidos em português. Recall@5 em livros nunca vistos: 0,76 → 0,97.
 
 `Hugging Face` `Fine-tuning` `Embeddings`
 
-📋 Planejado
+✅ Pronto · [Ver modelo →](https://huggingface.co/nathanjrdev/leia-embeddings-pt)
 
 </td>
 </tr>

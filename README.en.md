@@ -108,11 +108,11 @@ Pixel-art office that turns Claude Code agents at work into animated characters 
 <td width="50%" valign="top">
 
 **🤗 PT-BR embeddings model**
-Fine-tuned multilingual embeddings model for Portuguese requests, published on Hugging Face with before/after metrics.
+Fine-tuned multilingual embeddings model for Léia's search, on Portuguese requests. Recall@5 on unseen books: 0.76 → 0.97.
 
 `Hugging Face` `Fine-tuning` `Embeddings`
 
-📋 Planned
+✅ Done · [View model →](https://huggingface.co/nathanjrdev/leia-embeddings-pt)
 
 </td>
 </tr>
